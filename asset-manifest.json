@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/heytea-react/static/css/main.9548048f.css",
+    "main.css": "/heytea-react/static/css/main.bc016cd1.css",
     "main.js": "/heytea-react/static/js/main.65d2eac1.js",
     "index.html": "/heytea-react/index.html",
-    "main.9548048f.css.map": "/heytea-react/static/css/main.9548048f.css.map",
+    "main.bc016cd1.css.map": "/heytea-react/static/css/main.bc016cd1.css.map",
     "main.65d2eac1.js.map": "/heytea-react/static/js/main.65d2eac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9548048f.css",
+    "static/css/main.bc016cd1.css",
     "static/js/main.65d2eac1.js"
   ]
 }
